@@ -24,8 +24,8 @@
     {
       "nom": "Arbaoui",
       "prenom": "Samy",
-      "telephone": "03 83 17 42 71",
       "email": "samy.arbaoui@omexom.com",
+      "telephone": "03 83 17 42 71",
       "actif": true
     },
     {
@@ -45,7 +45,7 @@
     {
       "nom": "Defranoux",
       "prenom": "Mathieu",
-      "email": "mayhieu.defranoux@omexom.com",
+      "email": "mathieu.defranoux@omexom.com",
       "telephone": "03 83 17 42 61",
       "actif": true
     },
