@@ -1,0 +1,60 @@
+{
+  "tech_be": [
+    {
+      "nom": "Barthélémy",
+      "prenom": "Guillaume",
+      "telephone": "03 83 17 42 80",
+      "email": "guillaume.barthelemy@omexom.com",
+      "actif": true
+    },
+    {
+      "nom": "Bock",
+      "prenom": "Jean-Luc",
+      "telephone": "03 83 17 42 67",
+      "email": "jean-luc.bock@omexom.com",
+      "actif": true
+    },
+    {
+      "nom": "Valentin",
+      "prenom": "Franck",
+      "telephone": "06 27 25 24 10",
+      "email": "franck.valentin@omexom.com",
+      "actif": true
+    },
+    {
+      "nom": "Arbaoui",
+      "prenom": "Samy",
+      "telephone": "03 83 17 42 71",
+      "email": "samy.arbaoui@omexom.com",
+      "actif": true
+    },
+    {
+      "nom": "Gil Mago",
+      "prenom": "Véronica",
+      "email": "veronica.gilmago@omexom.com",
+      "telephone": "03 83 17 42 63",
+      "actif": true
+    },
+    {
+      "nom": "Siaka",
+      "prenom": "Daniez",
+      "email": "daniez.siaka@omexom.com",
+      "telephone": "03 83 17 42 62",
+      "actif": true
+    },
+    {
+      "nom": "Defranoux",
+      "prenom": "Mathieu",
+      "email": "mayhieu.defranoux@omexom.com",
+      "telephone": "03 83 17 42 61",
+      "actif": true
+    },
+    {
+      "nom": "Rémy",
+      "prenom": "Guillaume",
+      "telephone": "03 76 48 00 32",
+      "email": "guillaume.remy@omexom.com",
+      "actif": true
+    }
+  ]
+}
